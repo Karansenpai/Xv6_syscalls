@@ -4,6 +4,7 @@ Done By :-
 Aditya Singh IIT2022125
 Rishabh Kumar IIT2022131
 Karan Singh IIT2022132
+
 FOR LINUX
 
 1-Download qemu/aqemu (Hardware simulator)
