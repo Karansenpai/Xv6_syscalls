@@ -1,14 +1,15 @@
 Done By :-
 
-
 Aditya Singh IIT2022125
 Rishabh Kumar IIT2022131
 Karan Singh IIT2022132
+
 FOR LINUX
 
 1-Download qemu/aqemu (Hardware simulator)
 2-Then From Terminal go to the xv6-public-master folder given here
 3-Write "make clean" then "make qemu" then "make"
+
 
 
 FOR MAC
