@@ -13,6 +13,10 @@ FOR LINUX
 
 FOR MAC
 
+Either Use Xv6-master-public for mac
+
+or
+
 1-Dowload Docker Desktop
 2-Go to Docker hub and make an account
 3-Install VS-Code (For convienience can be done without vs-code in terminal also)
